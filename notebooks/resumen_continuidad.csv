@@ -1,5 +1,0 @@
-Archivo,Fecha inicial,Fecha final,Filas,Columnas,Nulos,Duplicados,Huecos,% Faltante,Frecuencia
-AEP_hourly,2004-10-01 01:00:00,2018-08-03,121273,3,1,0,27,0.02%,0 days 01:00:00
-COMED_hourly,2011-01-01 01:00:00,2018-08-03,66497,3,1,0,11,0.01%,0 days 01:00:00
-DAYTON_hourly,2004-10-01 01:00:00,2018-08-03,121275,3,1,0,25,0.02%,0 days 01:00:00
-DEOK_hourly,2012-01-01 01:00:00,2018-08-03,57739,3,1,0,9,0.01%,0 days 01:00:00
